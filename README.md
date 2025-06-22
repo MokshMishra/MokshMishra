@@ -51,7 +51,7 @@
 ### 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mokshmishra&theme=react-dark" alt="GitHub Contribution Graph" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=mokshmishra&theme=react-dark" alt="GitHub Contribution Graph" />
 </p>
 
 ---
@@ -71,4 +71,3 @@
   <a href="https://t.me/NMCoders" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&style=for-the-badge" /></a>
   <a href="https://mokshmishraportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=web&style=for-the-badge" /></a>
 </p>
-
