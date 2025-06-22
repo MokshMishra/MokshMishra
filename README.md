@@ -11,7 +11,7 @@
 - 🤝 I’m looking to collaborate on **[MedReport](https://github.com/mokshmishra/MedReport)** – AI-based OCR + NLP medical report analyzer  
 - 🌱 I’m currently learning **Machine Learning algorithms, NLP, OCR using Tesseract, and AI integration with web apps**  
 - 💬 Ask me about **Full Stack Development, AI Project Building, Hackathons, and Community Leadership**  
-- 📫 How to reach me: **mokshmishra1418@gmail.com**  
+- 📫 How to reach me: **mokshmishra2012@gmail.com**  
 - 🌐 All of my projects are available at: [GitHub](https://github.com/mokshmishra)  
 - 📝 Know about my experiences: [My Portfolio](https://mokshmishraportfolio.netlify.app/)  
 - 📰 I regularly post tech content on [LinkedIn](https://www.linkedin.com/in/moksh-mishra-956868289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
@@ -67,6 +67,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/moksh-mishra-956868289" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+    <a href="https://www.instagram.com/itz_moksh.m?igsh=cnNtcjdwdmxleGVk&utm_source=ig_contact_invite" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" /></a>
   <a href="mailto:mokshmishra1418@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge" /></a>
   <a href="https://t.me/NMCoders" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&style=for-the-badge" /></a>
   <a href="https://mokshmishraportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=web&style=for-the-badge" /></a>
